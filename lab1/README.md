@@ -4,3 +4,4 @@
 3. I made all the changes on tje branch. so the changes on the master branch not displayed
 4. I used the command `git checkout` for creating a new branch
 5. The error occured because different data were in the same plase
+6. There are no changes on the local version, is a command for synchronization `git pull`
