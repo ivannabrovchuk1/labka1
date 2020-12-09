@@ -1,0 +1,18 @@
+INFO root : Server is avalible. Server time: 2020-12-09T11:53:30.786764
+INFO root : Requested page: http://localhost:8000/health/
+INFO root : Server response contauns the following fields:
+INFO root : Key: servername, Value: lab server
+INFO root : Key: random, Value: 102
+INFO root : Key: datetime, Value: 2020-12-09T11:53:30.786764
+INFO root : Key: server_url, Value: http://localhost:8000/health/
+INFO root : Key: server_iinfo, Value: {'system': 'posix', 'user': 'brovchuk', 'srv_pid': 28925}
+INFO root : Key: client_info, Value: {'user agent': 'python-requests/2.22.0', 'remote addr': '127.0.0.1', 'remote host': ''}
+INFO root : Server is avalible. Server time: 2020-12-09T12:01:19.896824
+INFO root : Requested page: http://localhost:8000/health/
+INFO root : Server response contauns the following fields:
+INFO root : Key: servername, Value: lab server
+INFO root : Key: random, Value: 229
+INFO root : Key: datetime, Value: 2020-12-09T12:01:19.896824
+INFO root : Key: server_url, Value: http://localhost:8000/health/
+INFO root : Key: server_iinfo, Value: {'system': 'posix', 'user': 'brovchuk', 'srv_pid': 29145}
+INFO root : Key: client_info, Value: {'user agent': 'python-requests/2.22.0', 'remote addr': '127.0.0.1', 'remote host': ''}
