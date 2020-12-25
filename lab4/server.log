@@ -1,0 +1,72 @@
+INFO root : Server is avalible. Server time: 2020-12-25T16:53:48.588966
+INFO root : Requested page: http://localhost:8000/health/
+INFO root : Server response contauns the following fields:
+INFO root : Key: servername, Value: lab server
+INFO root : Key: random, Value: 177
+INFO root : Key: datetime, Value: 2020-12-25T16:53:48.588966
+INFO root : Key: server_url, Value: http://localhost:8000/health/
+INFO root : Key: server_iinfo, Value: {'system': 'posix', 'srv_pid': 65}
+INFO root : Key: client_info, Value: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO root : Server is avalible. Server time: 2020-12-25T16:54:48.718510
+INFO root : Requested page: http://localhost:8000/health/
+INFO root : Server response contauns the following fields:
+INFO root : Key: servername, Value: lab server
+INFO root : Key: random, Value: 59
+INFO root : Key: datetime, Value: 2020-12-25T16:54:48.718510
+INFO root : Key: server_url, Value: http://localhost:8000/health/
+INFO root : Key: server_iinfo, Value: {'system': 'posix', 'srv_pid': 65}
+INFO root : Key: client_info, Value: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO root : Server is avalible. Server time: 2020-12-25T16:55:48.860316
+INFO root : Requested page: http://localhost:8000/health/
+INFO root : Server response contauns the following fields:
+INFO root : Key: servername, Value: lab server
+INFO root : Key: random, Value: 68
+INFO root : Key: datetime, Value: 2020-12-25T16:55:48.860316
+INFO root : Key: server_url, Value: http://localhost:8000/health/
+INFO root : Key: server_iinfo, Value: {'system': 'posix', 'srv_pid': 65}
+INFO root : Key: client_info, Value: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO root : Server is avalible. Server time: 2020-12-25T16:56:48.997775
+INFO root : Requested page: http://localhost:8000/health/
+INFO root : Server response contauns the following fields:
+INFO root : Key: servername, Value: lab server
+INFO root : Key: random, Value: 229
+INFO root : Key: datetime, Value: 2020-12-25T16:56:48.997775
+INFO root : Key: server_url, Value: http://localhost:8000/health/
+INFO root : Key: server_iinfo, Value: {'system': 'posix', 'srv_pid': 65}
+INFO root : Key: client_info, Value: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO root : Server is avalible. Server time: 2020-12-25T16:57:49.121157
+INFO root : Requested page: http://localhost:8000/health/
+INFO root : Server response contauns the following fields:
+INFO root : Key: servername, Value: lab server
+INFO root : Key: random, Value: 42
+INFO root : Key: datetime, Value: 2020-12-25T16:57:49.121157
+INFO root : Key: server_url, Value: http://localhost:8000/health/
+INFO root : Key: server_iinfo, Value: {'system': 'posix', 'srv_pid': 65}
+INFO root : Key: client_info, Value: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO root : Server is avalible. Server time: 2020-12-25T16:58:49.265299
+INFO root : Requested page: http://localhost:8000/health/
+INFO root : Server response contauns the following fields:
+INFO root : Key: servername, Value: lab server
+INFO root : Key: random, Value: 3
+INFO root : Key: datetime, Value: 2020-12-25T16:58:49.265299
+INFO root : Key: server_url, Value: http://localhost:8000/health/
+INFO root : Key: server_iinfo, Value: {'system': 'posix', 'srv_pid': 65}
+INFO root : Key: client_info, Value: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO root : Server is avalible. Server time: 2020-12-25T16:59:49.378060
+INFO root : Requested page: http://localhost:8000/health/
+INFO root : Server response contauns the following fields:
+INFO root : Key: servername, Value: lab server
+INFO root : Key: random, Value: 116
+INFO root : Key: datetime, Value: 2020-12-25T16:59:49.378060
+INFO root : Key: server_url, Value: http://localhost:8000/health/
+INFO root : Key: server_iinfo, Value: {'system': 'posix', 'srv_pid': 65}
+INFO root : Key: client_info, Value: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
+INFO root : Server is avalible. Server time: 2020-12-25T17:00:49.507640
+INFO root : Requested page: http://localhost:8000/health/
+INFO root : Server response contauns the following fields:
+INFO root : Key: servername, Value: lab server
+INFO root : Key: random, Value: 160
+INFO root : Key: datetime, Value: 2020-12-25T17:00:49.507640
+INFO root : Key: server_url, Value: http://localhost:8000/health/
+INFO root : Key: server_iinfo, Value: {'system': 'posix', 'srv_pid': 65}
+INFO root : Key: client_info, Value: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.17.0.1', 'remote host': ''}
