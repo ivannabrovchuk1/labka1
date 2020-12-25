@@ -17,7 +17,7 @@ RUN git clone https://github.com/ivannabrovchuk1/labka1.git
 
 # Створюємо остаточну робочу папку з Веб-сайтом та копіюємо туди файли
 WORKDIR /app
-RUN cp -r /lab/devops_course/lab3/* .
+RUN cp -r /lab/labka1/lab3/* .
 
 # Інсталюємо всі залежності
 RUN pipenv install
