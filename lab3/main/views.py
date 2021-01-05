@@ -15,11 +15,11 @@ def health(request):
     response = {
         'servername': 'lab server',
         'random': random.randint(0, 256),
+        'current_page': request.path,
         'datetime': datetime.now().isoformat(),
         'server_url': request.build_absolute_uri(),
-        'server_iinfo': {
+        'server_info': {
             'system': os.name,
-            'user': os.getlogin(),
             'srv_pid': os.getpid(),
         },
         'client_info': {
