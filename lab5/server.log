@@ -1,0 +1,36 @@
+ERROR root : Unable to connect to the server. Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+ERROR root : Unable to connect to the server. Error: 500 Server Error: Internal Server Error for url: http://localhost:8000/health/
+ERROR root : Unable to connect to the server. Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+INFO root : Server is avalible. Server time: 2021-01-05T19:40:33.973260
+INFO root : Server is avalible. Server time: 2021-01-05T19:52:59.386571
+ERROR root : Unable to connect to the server. Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+INFO root : Server is avalible. Server time: 2021-01-05T19:57:08.635947
+INFO root : Requested page: /health/
+INFO root : Server response contauns the following fields:
+INFO root : Key: servername, Value: lab server
+INFO root : Key: random, Value: 235
+INFO root : Key: current_page, Value: /health/
+INFO root : Key: datetime, Value: 2021-01-05T19:57:08.635947
+INFO root : Key: server_url, Value: http://localhost:8000/health/
+INFO root : Key: server_info, Value: {'system': 'posix', 'srv_pid': 13}
+INFO root : Key: client_info, Value: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.18.0.1', 'remote host': ''}
+INFO root : Server is avalible. Server time: 2021-01-05T19:58:08.700991
+INFO root : Requested page: /health/
+INFO root : Server response contauns the following fields:
+INFO root : Key: servername, Value: lab server
+INFO root : Key: random, Value: 192
+INFO root : Key: current_page, Value: /health/
+INFO root : Key: datetime, Value: 2021-01-05T19:58:08.700991
+INFO root : Key: server_url, Value: http://localhost:8000/health/
+INFO root : Key: server_info, Value: {'system': 'posix', 'srv_pid': 13}
+INFO root : Key: client_info, Value: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.18.0.1', 'remote host': ''}
+INFO root : Server is avalible. Server time: 2021-01-05T19:59:08.760027
+INFO root : Requested page: /health/
+INFO root : Server response contauns the following fields:
+INFO root : Key: servername, Value: lab server
+INFO root : Key: random, Value: 175
+INFO root : Key: current_page, Value: /health/
+INFO root : Key: datetime, Value: 2021-01-05T19:59:08.760027
+INFO root : Key: server_url, Value: http://localhost:8000/health/
+INFO root : Key: server_info, Value: {'system': 'posix', 'srv_pid': 13}
+INFO root : Key: client_info, Value: {'user agent': 'python-requests/2.25.0', 'remote addr': '172.18.0.1', 'remote host': ''}

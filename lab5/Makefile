@@ -25,5 +25,5 @@ push:
 	@docker push $(REPO):app
 	@docker push $(REPO):tests
 
-delete-images:
+prune-images:
 	@docker rmi --force $$(docker images -q)
